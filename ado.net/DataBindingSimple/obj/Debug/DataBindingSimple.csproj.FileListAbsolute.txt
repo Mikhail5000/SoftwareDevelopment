@@ -1,0 +1,9 @@
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataBindingSimple\obj\Debug\DataBindingSimple.pdb

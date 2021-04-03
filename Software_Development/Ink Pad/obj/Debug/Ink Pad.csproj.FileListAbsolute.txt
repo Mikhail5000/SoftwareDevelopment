@@ -1,0 +1,15 @@
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\bin\Debug\Ink Pad.exe.config
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\bin\Debug\Ink Pad.exe
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\bin\Debug\Ink Pad.pdb
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\MainWindow.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\App.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\MainWindow.baml
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad.g.resources
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad.exe
+D:\Обучение\4 курс\Осипов\Software_Development\Ink Pad\obj\Debug\Ink Pad.pdb

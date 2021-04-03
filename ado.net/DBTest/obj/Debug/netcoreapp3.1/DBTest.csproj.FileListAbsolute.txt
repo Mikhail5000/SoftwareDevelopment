@@ -1,0 +1,14 @@
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\bin\Debug\netcoreapp3.1\DBTest.exe
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\bin\Debug\netcoreapp3.1\DBTest.deps.json
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\bin\Debug\netcoreapp3.1\DBTest.runtimeconfig.json
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\bin\Debug\netcoreapp3.1\DBTest.runtimeconfig.dev.json
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\bin\Debug\netcoreapp3.1\DBTest.dll
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\bin\Debug\netcoreapp3.1\DBTest.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.AssemblyInfoInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.AssemblyInfo.cs
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.dll
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DBTest\obj\Debug\netcoreapp3.1\DBTest.genruntimeconfig.cache

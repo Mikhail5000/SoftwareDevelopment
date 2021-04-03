@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+D:\Обучение\4 курс\Осипов\ado.net\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

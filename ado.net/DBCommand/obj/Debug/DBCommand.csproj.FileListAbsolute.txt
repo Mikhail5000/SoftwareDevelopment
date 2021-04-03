@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\bin\Debug\DBCommand.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\bin\Debug\DBCommand.exe
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\bin\Debug\DBCommand.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.exe
+D:\Обучение\4 курс\Осипов\ado.net\DBCommand\obj\Debug\DBCommand.pdb

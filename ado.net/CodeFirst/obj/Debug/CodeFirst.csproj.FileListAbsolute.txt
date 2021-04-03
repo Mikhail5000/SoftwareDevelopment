@@ -1,0 +1,12 @@
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\CodeFirst.dll
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\EntityFramework.dll
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\EntityFramework.xml
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\obj\Debug\CodeFirst.dll
+D:\Обучение\4 курс\Осипов\ado.net\CodeFirst\obj\Debug\CodeFirst.pdb

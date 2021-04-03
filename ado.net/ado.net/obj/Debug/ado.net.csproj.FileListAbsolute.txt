@@ -1,0 +1,15 @@
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\bin\Debug\ado.net.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\bin\Debug\ado.net.exe
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\bin\Debug\ado.net.pdb
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\MainWindow.g.cs
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\App.g.cs
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net_MarkupCompile.cache
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net_MarkupCompile.lref
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\MainWindow.baml
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.g.resources
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.exe
+D:\Обучение\4 курс\Осипов\ado.net\ado.net\obj\Debug\ado.net.pdb

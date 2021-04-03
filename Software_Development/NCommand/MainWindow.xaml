@@ -1,0 +1,35 @@
+﻿<Window x:Class="NCommand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NCommand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu Height="26" VerticalAlignment="Top">
+            <MenuItem Header="Правка">
+                <MenuItem Header="Копировать" CommandTarget="{Binding ElementName=MainWindow}"
+                    Command="Copy"/>
+                <MenuItem Header="Вырезать" CommandTarget="{Binding ElementName=MainWindow}"
+                    Command="Cut"/>
+                <MenuItem Header="Вставить" CommandTarget="{Binding ElementName=MainWindow}"
+                    Command="Paste"/>
+            </MenuItem>
+            <MenuItem Header="Menu Items">
+                <MenuItem Header="Launch" Command="local:CustomCommands.Launch"/>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="117,100,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="581"/>
+        <RichTextBox x:Name="richTextBox" Margin="0,156,0,0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <CheckBox x:Name="checkBox" Content="Enable Launch Command" HorizontalAlignment="Left" Margin="117,42,0,0" VerticalAlignment="Top"/>
+        <Button Content="Launch" HorizontalAlignment="Left" Margin="117,68,0,0" VerticalAlignment="Top" Width="83" Height="22"
+                Command="local:CustomCommands.Launch"/>
+    </Grid>
+</Window>

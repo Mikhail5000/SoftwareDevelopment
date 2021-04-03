@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\Обучение\4 курс\Осипов\ado.net\DatasetDesigner\obj\Debug\DatasetDesigner.pdb

@@ -1,0 +1,16 @@
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\bin\Debug\DataBindingDemo.exe.config
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\bin\Debug\DataBindingDemo.exe
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\bin\Debug\DataBindingDemo.pdb
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\MainWindow.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\App.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.cache
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.lref
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\MainWindow.baml
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.g.resources
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.exe
+D:\Обучение\4 курс\Осипов\Software_Development\DataBindingDemo\obj\Debug\DataBindingDemo.pdb

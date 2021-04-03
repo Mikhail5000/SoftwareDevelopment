@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+D:\Обучение\4 курс\Осипов\ado.net\CreatingDataTable\obj\Debug\CreatingDataTable.pdb

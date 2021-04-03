@@ -1,0 +1,9 @@
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\bin\Debug\LINQsql_m.exe
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\bin\Debug\LINQsql_m.pdb
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\obj\Debug\LINQsql_m.exe
+D:\Обучение\4 курс\Осипов\ado.net\LINQsql_m\obj\Debug\LINQsql_m.pdb

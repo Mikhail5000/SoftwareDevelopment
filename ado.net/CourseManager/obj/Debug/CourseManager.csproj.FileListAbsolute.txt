@@ -1,0 +1,16 @@
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\CourseManager.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\CourseManager.exe
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\CourseManager.pdb
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\EntityFramework.dll
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\EntityFramework.xml
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.exe
+D:\Обучение\4 курс\Осипов\ado.net\CourseManager\obj\Debug\CourseManager.pdb

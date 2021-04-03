@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+D:\Обучение\4 курс\Осипов\ado.net\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

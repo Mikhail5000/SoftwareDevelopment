@@ -1,0 +1,9 @@
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

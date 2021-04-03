@@ -1,0 +1,15 @@
+D:\Обучение\4 курс\Осипов\Software_Development\Param\bin\Debug\Param.exe.config
+D:\Обучение\4 курс\Осипов\Software_Development\Param\bin\Debug\Param.exe
+D:\Обучение\4 курс\Осипов\Software_Development\Param\bin\Debug\Param.pdb
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\MainWindow.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\App.g.cs
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param_MarkupCompile.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param_MarkupCompile.lref
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\MainWindow.baml
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.g.resources
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.exe
+D:\Обучение\4 курс\Осипов\Software_Development\Param\obj\Debug\Param.pdb

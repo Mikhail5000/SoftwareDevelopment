@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\bin\Debug\DataViewExample.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\bin\Debug\DataViewExample.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\bin\Debug\DataViewExample.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataViewExample\obj\Debug\DataViewExample.pdb

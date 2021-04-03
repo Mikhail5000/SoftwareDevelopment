@@ -1,0 +1,10 @@
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

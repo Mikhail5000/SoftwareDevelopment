@@ -1,0 +1,7 @@
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\bin\Debug\Linq_Student.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\bin\Debug\Linq_Student.exe
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\bin\Debug\Linq_Student.pdb
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\obj\Debug\Linq_Student.csprojAssemblyReference.cache
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\obj\Debug\Linq_Student.exe
+D:\Обучение\4 курс\Осипов\ado.net\Linq_Student\obj\Debug\Linq_Student.pdb

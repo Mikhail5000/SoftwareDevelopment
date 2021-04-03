@@ -1,0 +1,9 @@
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+D:\Обучение\4 курс\Осипов\ado.net\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

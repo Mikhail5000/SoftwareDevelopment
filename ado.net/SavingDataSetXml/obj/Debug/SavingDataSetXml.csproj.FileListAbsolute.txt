@@ -1,0 +1,9 @@
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\Обучение\4 курс\Осипов\ado.net\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
